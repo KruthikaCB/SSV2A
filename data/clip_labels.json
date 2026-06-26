@@ -1,0 +1,135 @@
+[
+  {
+    "index": 0,
+    "label": "car",
+    "confidence": 0.9504,
+    "crop_file": "data/crops/car_0.jpg",
+    "embedding_row": 0
+  },
+  {
+    "index": 1,
+    "label": "car",
+    "confidence": 0.9136,
+    "crop_file": "data/crops/car_1.jpg",
+    "embedding_row": 1
+  },
+  {
+    "index": 2,
+    "label": "person",
+    "confidence": 0.8333,
+    "crop_file": "data/crops/person_2.jpg",
+    "embedding_row": 2
+  },
+  {
+    "index": 3,
+    "label": "car",
+    "confidence": 0.8176,
+    "crop_file": "data/crops/car_3.jpg",
+    "embedding_row": 3
+  },
+  {
+    "index": 4,
+    "label": "person",
+    "confidence": 0.8113,
+    "crop_file": "data/crops/person_4.jpg",
+    "embedding_row": 4
+  },
+  {
+    "index": 5,
+    "label": "motorcycle",
+    "confidence": 0.7726,
+    "crop_file": "data/crops/motorcycle_5.jpg",
+    "embedding_row": 5
+  },
+  {
+    "index": 6,
+    "label": "motorcycle",
+    "confidence": 0.7507,
+    "crop_file": "data/crops/motorcycle_6.jpg",
+    "embedding_row": 6
+  },
+  {
+    "index": 7,
+    "label": "person",
+    "confidence": 0.7461,
+    "crop_file": "data/crops/person_7.jpg",
+    "embedding_row": 7
+  },
+  {
+    "index": 8,
+    "label": "person",
+    "confidence": 0.7076,
+    "crop_file": "data/crops/person_8.jpg",
+    "embedding_row": 8
+  },
+  {
+    "index": 9,
+    "label": "person",
+    "confidence": 0.6986,
+    "crop_file": "data/crops/person_9.jpg",
+    "embedding_row": 9
+  },
+  {
+    "index": 10,
+    "label": "car",
+    "confidence": 0.6926,
+    "crop_file": "data/crops/car_10.jpg",
+    "embedding_row": 10
+  },
+  {
+    "index": 11,
+    "label": "person",
+    "confidence": 0.6336,
+    "crop_file": "data/crops/person_11.jpg",
+    "embedding_row": 11
+  },
+  {
+    "index": 12,
+    "label": "motorcycle",
+    "confidence": 0.5779,
+    "crop_file": "data/crops/motorcycle_12.jpg",
+    "embedding_row": 12
+  },
+  {
+    "index": 13,
+    "label": "person",
+    "confidence": 0.546,
+    "crop_file": "data/crops/person_13.jpg",
+    "embedding_row": 13
+  },
+  {
+    "index": 14,
+    "label": "car",
+    "confidence": 0.4559,
+    "crop_file": "data/crops/car_14.jpg",
+    "embedding_row": 14
+  },
+  {
+    "index": 15,
+    "label": "truck",
+    "confidence": 0.4478,
+    "crop_file": "data/crops/truck_15.jpg",
+    "embedding_row": 15
+  },
+  {
+    "index": 16,
+    "label": "car",
+    "confidence": 0.4235,
+    "crop_file": "data/crops/car_16.jpg",
+    "embedding_row": 16
+  },
+  {
+    "index": 17,
+    "label": "motorcycle",
+    "confidence": 0.3449,
+    "crop_file": "data/crops/motorcycle_17.jpg",
+    "embedding_row": 17
+  },
+  {
+    "index": 18,
+    "label": "umbrella",
+    "confidence": 0.2501,
+    "crop_file": "data/crops/umbrella_18.jpg",
+    "embedding_row": 18
+  }
+]
